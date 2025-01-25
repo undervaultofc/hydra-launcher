@@ -1,11 +1,11 @@
 ## UnderVault Hydra Tracker
 
-## Português
-
 ### Utilização
 
 Clique na categoria pretendida, abra um ficheiro **raw** e copie o URL para o ficheiro. Ou simplesmente copie o URL daqui :)
 Abra o **Hydra**, vá para **Ajustes**, depois para **Fontes de download**. Clique em **Adicionar fonte**, cole a ligação copiada, clique em **Validar** e depois em **Importar**. Pronto!
+
+Não estamos envolvidos com nenhuma coisa relacionada a pirataria, apenas hospedamos os links.
 
 [Todas as categorias](https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json)
 
